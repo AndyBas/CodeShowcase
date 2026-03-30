@@ -1,0 +1,15 @@
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\bin\Debug\net10.0\SimpleApp.exe
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\bin\Debug\net10.0\SimpleApp.deps.json
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\bin\Debug\net10.0\SimpleApp.runtimeconfig.json
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\bin\Debug\net10.0\SimpleApp.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\bin\Debug\net10.0\SimpleApp.pdb
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.AssemblyInfoInputs.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.AssemblyInfo.cs
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.csproj.CoreCompileInputs.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.sourcelink.json
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\refint\SimpleApp.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.pdb
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\SimpleApp.genruntimeconfig.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\SimpleApp\obj\Debug\net10.0\ref\SimpleApp.dll

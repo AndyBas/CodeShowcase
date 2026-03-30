@@ -1,0 +1,15 @@
+2026-03-30T11:32:57.3385592+02:00  [INF] Task added successfully (49b12044)
+2026-03-30T11:33:12.8095448+02:00  [INF] Task added successfully (49b12044)
+2026-03-30T11:33:19.6115757+02:00  [INF] Tasks listed successfully (f479e287)
+2026-03-30T11:33:45.0822409+02:00  [INF] Task removed successfully (d68712df)
+2026-03-30T11:33:50.4578082+02:00  [INF] Exiting application (a474070f)
+2026-03-30T11:38:16.5287301+02:00  [ERR] An error occurred while testing exception logging (56e6f6fb)
+System.Exception: This is a test exception
+   at Program.Main() in D:\Projets\Showcase\CodeShowcase\dotNET\ListCLI\Program.cs:line 65
+2026-03-30T11:39:16.7274446+02:00  [INF] Task added successfully (49b12044)
+2026-03-30T11:39:33.9353909+02:00  [INF] Task added successfully (49b12044)
+2026-03-30T11:39:51.1145655+02:00  [INF] Tasks listed successfully (f479e287)
+2026-03-30T11:40:17.4957413+02:00  [INF] Task removed successfully (d68712df)
+2026-03-30T11:40:26.1124322+02:00  [INF] Exiting application (a474070f)
+2026-03-30T12:08:09.7619547+02:00  [INF] Task added with ID: 1 and title: Brico Dépot (3cd2626c)
+2026-03-30T12:08:26.1443481+02:00  [INF] Exiting application (a474070f)
