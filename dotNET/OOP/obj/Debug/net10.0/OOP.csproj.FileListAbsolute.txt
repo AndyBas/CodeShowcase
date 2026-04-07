@@ -1,0 +1,15 @@
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\bin\Debug\net10.0\OOP.exe
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\bin\Debug\net10.0\OOP.deps.json
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\bin\Debug\net10.0\OOP.runtimeconfig.json
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\bin\Debug\net10.0\OOP.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\bin\Debug\net10.0\OOP.pdb
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.AssemblyInfoInputs.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.AssemblyInfo.cs
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.csproj.CoreCompileInputs.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.sourcelink.json
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\refint\OOP.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.pdb
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\OOP.genruntimeconfig.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\OOP\OOP\obj\Debug\net10.0\ref\OOP.dll

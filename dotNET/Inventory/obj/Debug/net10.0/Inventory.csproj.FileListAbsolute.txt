@@ -1,0 +1,15 @@
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\bin\Debug\net10.0\Inventory.exe
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\bin\Debug\net10.0\Inventory.deps.json
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\bin\Debug\net10.0\Inventory.runtimeconfig.json
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\bin\Debug\net10.0\Inventory.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\bin\Debug\net10.0\Inventory.pdb
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.AssemblyInfoInputs.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.AssemblyInfo.cs
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.csproj.CoreCompileInputs.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.sourcelink.json
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\refint\Inventory.dll
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.pdb
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\Inventory.genruntimeconfig.cache
+D:\Projets\Showcase\CodeShowcase\dotNET\Inventory\obj\Debug\net10.0\ref\Inventory.dll
